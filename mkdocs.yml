@@ -1,0 +1,22 @@
+site_name: Ava David - UI/UX Project
+theme:
+  name: material
+  font: 
+    text: Merriweather Sans
+    code: Red Hat Mono
+  palette:
+  # Dark Mode
+  - scheme: slate
+    toggle:
+    icons: material/weather-sunny
+    name: Dark Mode
+    primary: purple
+    accent: deep purple
+
+  # Light Mode
+  - scheme: default
+    toggle:
+    icons: material/weather-night
+    name: Dark Mode
+    primary: purple
+    accent: deep purple
