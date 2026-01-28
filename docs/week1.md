@@ -33,7 +33,7 @@ Suzanne Collin's site was a strong contender as it has a clear purpose and brand
 
 Our chosen website is [Toronto Cupcake](https://www.torontocupcake.com/). It is a cupcake bakery based in Toronto with a focus on selling whimsical cupcakes to their customers, as well as offering catering services to corporate businesses and for events.
 
-![Toronto Cupcake Home Page](assets\img\toronto_cupcake_home.png)
+![Toronto Cupcake Home Page](assets/img/toronto_cupcake_home.png)
 
 ## Why This Website was Chosen
 
@@ -41,7 +41,7 @@ This website is a great combination of the opportunities the other five websites
 
  The user experience is very frustrating and has much room for improvement, specifically in the ordering and delivering of products. The ordering page is not accessible from the menu, but rather from a button on a random page.
 
-![Toronto Cupcake ordering page](assets\img\orderNow.png)
+![Toronto Cupcake ordering page](/assets/img/orderNow.png)
 
 The navigation is not to standard at all, and the page structure is very messy. Many options are hidden on certain pages. The navigation should not be vertical with dropdown options. Options like 'order now' should not be hidden in specific pages. Overall, the navigation site-wide lacks clarity, and fixing this will improve the user's experience.
 
