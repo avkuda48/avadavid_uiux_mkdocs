@@ -1,6 +1,11 @@
-# Welcome to MkDocs
+# Welcome to Ava's UI/UX Project Document
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This document is intended for Sam, Chris, and possible employers who are interested in my ability to redesign a website through a UI/UX lens.
+
+## Group Members
+
+For Chris' class: Ava and Anna
+For Sam's class: Ava, Anna, and Tina
 
 ## Commands
 
@@ -9,9 +14,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).

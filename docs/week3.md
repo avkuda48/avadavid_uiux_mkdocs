@@ -1,6 +1,6 @@
 # User Personas, Stories, and Scenarios - Week 3
 
-This week, we spent some more time defining who are users are and the problems they may face when using our website. We created two **user personas**, three **stories** for each of them, and three **scenarios** between the two.
+This week, we defined who are users are and the problems they may face when using our website. We created two **user personas**, three **stories** for each of them, and three **scenarios** between the two.
 
 ## User Personas
 
@@ -20,33 +20,33 @@ If I understand a sample user's needs, wants, goals, and paint points, I can bui
 
 User stories follow a specific formula:
 
-*As a ______ , I want to _____ so that I can _______ .*
+*As a______,I want to______so that I can _______.*
 
-This helps a developer outline what a user might want to do and why, allowing them to come up with the how. Here are Cheryl's three user stories:
+This helps a developer outline what a specific user might want to do with their application and why, allowing them to come up with the how. Here are Cheryl's three user stories:
 
 ### One
 
->As an assistant ED, I want to know the specific time and place my cupcake order will be delivered so that I can plan accordingly.
+>"As an assistant ED, I want to know the specific time and place my cupcake order will be delivered so that I can plan accordingly."
 
 This tells me as a developer that I need a page to show the user the date, time, and location of their cupcake delivery.
 
 ### Two
 
->As an active member of my community, I want to choose to support a local business so that I can feel good about who I am supporting.
+>"As an active member of my community, I want to choose to support a local business so that I can feel good about who I am supporting."
 
 This tells me that I need to better showcase Toronto Cupcake's connection with their community, because they are certainly avid members of it!
 
 ### Three
 
->As an assistant ED, I want to quickly see what cupcakes are available and order them so that I can carry on with the rest of my work tasks.
+>"As an assistant ED, I want to quickly see what cupcakes are available and order them so that I can carry on with the rest of my work tasks."
 
 This means I need to better structure the cupcake catalogue so that it is more accessible and easy to understand. I also need to streamline the ordering process so it makes clear and total sense.
 
 ## User Scenarios
 
-Finally, user scenarios help a developer to begin to mock up the page structure and flow of the website. You take your user story and create a high-level file path that will solve the user's story.
-
+Finally, user scenarios help a developer to begin to mock up the page structure and flow of the website. Take your user story and create a high-level file path that described how the user will go about completing their goal.  
 For example:
+
 >As an active member of my community, I want to choose to support a local business so that I can feel good about who I am supporting.
 
 1. Start at the home page
