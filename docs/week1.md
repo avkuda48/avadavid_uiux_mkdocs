@@ -39,7 +39,7 @@ The navigation should not be vertical with dropdown options as it is hard to rea
 
 The current brand does not align well with the goals of the business. It lacks professionalism to their corporate audience and looks dated in the eyes of their customers. We will rebrand the site, including a new logo, palette, and typography.
 
-![Toronto Cupcake Branding](assets/img/toronto_cupcake_logo.png)
+![Toronto Cupcake Branding - img](assets/img/toronto_cupcake_logo.png)
 
 Overall, I think this brand has a very interesting niche which provides us the opportunity to make something exciting!
 
