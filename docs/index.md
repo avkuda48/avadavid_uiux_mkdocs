@@ -1,10 +1,10 @@
-# Welcome to Ava's UI/UX Project Document
+# Ava's UI/UX Project Document
 
 This document is intended for Sam, Chris, and possible employers who are interested in my ability to redesign a website through a UI/UX lens.
 
 ## Group Members
 
-For Chris' class: Ava and Anna
+For Chris' class: Ava and Anna  
 For Sam's class: Ava, Anna, and Tina
 
 ## Commands
