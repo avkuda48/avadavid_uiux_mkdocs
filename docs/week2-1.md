@@ -46,4 +46,6 @@ Users might not use your product simply because they can't. Any amount of disabi
 **Valuable**  
 Lastly, your product must add value to the user's life in some way. Otherwise, what's stopping them from using a similar product or service?
 
-Read the next article to see how Anna and I used these tools to outline our main focuses for the redesign of Toronto Cupcake.
+The next article covers how I used these tools to outline our main focuses for the redesign of Toronto Cupcake.
+
+[Next Article - Project Proposal](week2-2.md)

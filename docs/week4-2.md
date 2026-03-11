@@ -1,6 +1,6 @@
 # Scope
 
-Anna and I created a list of exact problems that we wanted to fix and would have time to complete before this project's deadline:
+We needed a list of exact problems that we wanted to fix and would have time to complete before this project's deadline.
 
 - Homepage Layout
     - Remove unnecessary info and links
@@ -34,4 +34,6 @@ Anna and I created a list of exact problems that we wanted to fix and would have
     - Redundant questions
     - No Javascript pop up
 
-We believe that together, we will be able to accomplish all of this before the project's deadline at the end of the term.
+We believe that we will be able to accomplish all of this before the project's deadline at the end of the term.
+
+[Next Article - User Flows](week5-1.md)

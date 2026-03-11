@@ -53,3 +53,5 @@ Has this scenario:
 4. Reads the page on how Toronto Cupcake gives back to its community.
 
 The pieces of how our site will look and behave are slowly coming into place thanks to these three tools.
+
+[Next Article - Problem Statement](week4-1.md)

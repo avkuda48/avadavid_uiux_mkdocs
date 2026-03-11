@@ -13,3 +13,7 @@ A problem statement narrows down the specific issues a product has. Anna and I c
 *The focus of the redesign should be on corporate-specific catering, a niche that makes the business stand out among competitors.*
 
 This needs little explanation as these core structure and design flaws are ones we have been harping on since week one.
+
+Next, we define the scope of this redesign.
+
+[Next Article - Scope](week4-2.md)
