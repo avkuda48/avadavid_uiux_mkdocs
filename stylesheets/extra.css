@@ -1,0 +1,16 @@
+:root > * {
+  --md-primary-fg-color: #93434cff;
+  --md-primary-fg-color--light: #93434cff;
+  --md-primary-fg-color--dark: #93434cff;
+  
+  --md-default-bg-color:rgb(255, 255, 255);
+  --md-default-bg-color--light:rgb(255, 255, 255);
+  --md-default-bg-color--dark:rgb(0, 0, 0);
+
+  --md-accent-fg-color:rgb(154, 166, 47);
+}
+
+.md-typeset img {
+    display: block;
+    max-width: 50%;
+}
