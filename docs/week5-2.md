@@ -24,8 +24,8 @@ Here are a few of the most important pages of our website as low-fi mockups.
 
 ![homepage wireframe](assets/img/lowfi-order.png)
 
-The goal of low-fi mockups is to get a basic understanding of where things need to be for the user to have the best experience. 
+The goal of low-fi mockups is to get a basic understanding of where things need to be for the user to have the best experience.
 
 At this stage, we don't care about what images go where, what colours, will be used, etc. That comes next!
 
-[Next Article - Style Guide](week6.md)
+[Next Article - User Testing](week6.md)
