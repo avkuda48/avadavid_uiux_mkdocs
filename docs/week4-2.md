@@ -1,6 +1,6 @@
 # Scope
 
-We needed a list of exact problems that we wanted to fix and would have time to complete before this project's deadline.
+We needed an extensive list of exact problems that we wanted to fix and would have time to complete before this project's deadline:
 
 - Homepage Layout
     - Remove unnecessary info and links
@@ -35,5 +35,7 @@ We needed a list of exact problems that we wanted to fix and would have time to 
     - No Javascript pop up
 
 We believe that we will be able to accomplish all of this before the project's deadline at the end of the term.
+
+In the next article, I take look at user flows to create low-fidelity wireframes.
 
 [Next Article - User Flows](week5-1.md)

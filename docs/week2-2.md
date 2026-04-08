@@ -41,22 +41,25 @@ This website does not adhere to accessability standards, especially contrast. It
 
 ## Changes to Make
 
-We will rebrand Toronto Cupcake to better reflect an elegant, gourmet cupcakerie with a focus on catering. The new brand will include a logo, colour palette, and typography.
+We will rebrand Toronto Cupcake to better reflect an elegant, gourmet cupcakerie with a focus on catering. 
 
-The website design will be professional and polished with tasteful animations and hover states, correct alignment, professional icons and photos, and proper hierarchy.  
-
-The navigation will follow web standards and be accessible at all times. Menu options will be reduced and made more clear.  
-
-The header and footer will be modernized with unnecessary information such has the date removed.  
-
-The shop, delivery, and cart functions will be made easier to find and use.  
-The catalogue will be made much more appealing and understandable with uniform spacing and images, and with the price easily seen.  
-
-Redundant content will be removed, such as repeated questions on the FAQ page and the delivery page. The resources and occasions page will be combined for simplicity.
+* New Brand (Logo, Palette, and Typography)
+* Tasteful animations and hover states
+* Correct typographical alignment and hierarchy
+* High quality images and icons
+* Accessible and clear navigation menu
+* Modernized header and footer
+* Shop, delivery, and cart functionality improved
+    * Cart icon clear and accessible
+    * Order confirmation and status
+    * Cart page made more clear and appealing
+* All redundant information removed
 
 ## Market Competitors
 
 We chose two market competitors to research. This helps us see what businesses in Toronto Cupcake's niche are doing well and what we can learn from them.
+
+Both of these companies offer catering services for baked goods and are located in Toronto ON. They are of similar status as well; not exceptionally well known, but clearly serious about their business.
 
 ### Cupcake Paradise
 
@@ -64,9 +67,9 @@ We chose two market competitors to research. This helps us see what businesses i
 
 ![cupcake paradise home page](assets/img/cupcake_paradise.png)
 
-Their website design, while looking a little AI generated, is trendy, modern, and functional. The animations are tasteful and the colour palette suits their playful brand.
+Their website design, while looking a little AI generated, is trendy, modern, and functional. The animations are tasteful and the colour palette suits their playful brand. Their purpose is stated clearly in their homepage with various call-to-action buttons throughout, guiding the user to make a purchase.
 
-However, the AI graphics could make it appear unprofessional to some users, and a lack of focus on community detracts from its desirability and value. The UI is slightly crowded and the constant animations make it a little annoying.
+However, the AI graphics appear unprofessional and a lack of focus on community detracts from its desirability and value. The UI is slightly crowded and the constant animations make it a little annoying to navigate.
 
 ### The Cupcake Shoppe
 
@@ -74,9 +77,16 @@ However, the AI graphics could make it appear unprofessional to some users, and 
 
 ![the cupcake shoppe homepage](assets/img/cupcake_shoppe.png)
 
-This website is a little more dated and less trendy than Cupcake Paradise's, but their branding is very elegant and professional. Their UI is very clean and as a result, makes their website look credible.
+This website is a little more dated and less trendy than Cupcake Paradise, but their branding is elegant and traditional. Their UI is very clean and as a result, makes their website look credible. They utilize cards depicting their different products right on the homepage, allowing users to quickly see what is available.
 
-Some issues with it are the photos being pixelated and lack of community makes a customer less likely to choose them over any other bakery.
+There are a few issues, most obvious the low quality images and dated design. The use of whitespace on some pages do not look intentional and make the design look incomplete or empty.
+
+This analysis tells me that in order for our redesign to be successful, we need:
+
+* A homepage with an appealing splash image
+* Call-to-action buttons
+* Clear understanding of the products sold
+* Tight and purposeful design
 
 With this completed, we can now move on to better understanding our user's needs.
 

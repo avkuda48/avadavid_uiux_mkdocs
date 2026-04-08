@@ -1,14 +1,14 @@
 # User Personas, Stories, and Scenarios
 
-This week, we created two **user personas**, three **stories** for each of them, and three **scenarios** between the two. These help us identify the functionality our site needs to have in order for a user to achieve their goals successfully.
+This week, we created two **user personas**, three **stories** for each, and three **scenarios** between the two. These help us identify the functionality our site needs to have in order for a user to achieve their goals successfully.
 
 ## User Personas
 
-Creating a fictional user for your application is helpful for determining what you should focus on as a dev. Anna and I created one user persona each to represent the two main clients Toronto Cupcake would have: corporations and event planners.
+Creating a fictional user for your application is helpful for determining what you should focus on as a dev. My partner and I created one user persona each to represent the two main clients Toronto Cupcake would have: corporations and event planners.
 
 ![user persona](assets/img/userPersona.png)
 
->*Meet Cheryl, the assistant ED at RBCs Toronto HQ. She considers herself the ‘fun boss’ and regularly organizes company parties, team working events, and birthdays on top of her duties as assistant ED. She cares deeply about a healthy work environment and about giving back to her community.*
+>*Meet Cheryl, the assistant ED at RBC's Toronto HQ. She considers herself the ‘fun boss’ and regularly organizes company parties, team working events, and birthdays on top of her duties as assistant ED. She cares deeply about a healthy work environment and about giving back to her community.*
 
 Giving a user persona a face, background, and personality helps make them feel more real and easier to empathize with. If I understand a sample user's needs, wants, goals, and pain points, I can build my web app around that.
 
@@ -30,7 +30,7 @@ This tells me that I need a page to show the user the date, time, and location o
 
 >"As an active member of my community, I want to buy from a local business so that I can feel good about who I am supporting."
 
-This tells me that I need to better showcase Toronto Cupcake's connection with their community, because they are certainly avid members of it!
+This tells me that I need to better showcase Toronto Cupcake's connection with their community, because they are avid members of it.
 
 ### Three
 
@@ -49,7 +49,7 @@ Has this scenario:
 
 1. Cheryl starts at the home page
 2. Navigates to the menu
-3. Selects the 'giving back' option
+3. Selects the 'about' option
 4. Reads the page on how Toronto Cupcake gives back to its community.
 
 The pieces of how our site will look and behave are slowly coming into place thanks to these three tools.

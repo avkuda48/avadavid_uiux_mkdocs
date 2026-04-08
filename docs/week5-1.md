@@ -1,6 +1,6 @@
 # User Flows
 
-User flows are based on user stories. They outline how a user would go about accomplishing their goal using your application in a flowchart manner.
+User flows are based on user stories. They outline how a user would go about accomplishing the goal in their story using your application in a flowchart manner.
 
 We created three user flows to begin to identify what elements our redesign will need and where they should be on the actual page.
 
@@ -20,7 +20,7 @@ You can begin to see how this would help a developer identify elements they need
 
 User Story:
 
->As a wedding planner, I want to easily learn about allergens of different cupcakes, so that I can order cupcakes suitable for all my guests and me.
+>As a wedding planner, I want to easily learn about allergens of different cupcakes, so that I can order cupcakes suitable for all my guests.
 
 User Flow:
 
