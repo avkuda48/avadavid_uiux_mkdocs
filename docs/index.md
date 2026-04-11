@@ -55,4 +55,4 @@ My main goal for this project is to gain experience working on a project with an
 
 I aim to utilize my design skills and push myself for this project to create a professional end product.
 
-[Next Article](week2-1.md)
+[Next Article - Tools for UI/UX Projects](week2-1.md)

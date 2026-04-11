@@ -2,7 +2,7 @@
 
 By testing our low-fi wireframes, we were able to identify some weak areas of our design before proceeding. This phase is especially important as we will skip the mid-fi step and go straight to the hi-fi mockup.
 
-This article will cover how we tested,the main issues with our current design, and how we plan to fix them
+This article will cover how we tested, the main issues with our current design, and how we plan to fix them
 
 ## Testing
 
@@ -28,4 +28,4 @@ We can fix this issue by making it more clear that there are steps to ordering. 
 
 With these issues identified and solved, we can move on to planning our Hi-Fi.
 
-[Next article](week6-2.md)
+[Next article - Rebrand](week6-2.md)

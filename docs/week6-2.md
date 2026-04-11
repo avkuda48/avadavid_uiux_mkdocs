@@ -2,13 +2,13 @@
 
 This article will detail our redesign of Toronto Cupcakes, including a style guide and design rationale.
 
-![toronto cupcake's new style guide](./assets/torontoCupcakeStyles/torontoCupcake-styleguide.png)
+![toronto cupcake's new style guide](assets/torontoCupcakeStyles/torontoCupcake-styleguide.png)
 
 ## Logo
 
 The wordmark for Toronto Cupcake takes inspiration from traditional French bakery styles.
 
-![wordmark](./assets/torontoCupcakeStyles/torontoCupcake-wordMark-white-Border.png)
+![wordmark](assets/torontoCupcakeStyles/torontoCupcake-wordMark-white-Border.png)
 
 The bold serif font is strongly associated with trust, professionalism, and longstanding businesses, all features that Toronto Cupcake wants to promote to their corporate audience.
 
@@ -18,7 +18,7 @@ A star in the middle O represents their status as one of Canada's first gourmet 
 
 Lastly, the border around the logo neatly contains the typography to resemble a stamp. The purpose of this iconography is to invoke ideas of professionalism and class, like an official seal.
 
-![letter mark](./assets/torontoCupcakeStyles/torontoCupcake-letterMark-white.png)
+![letter mark](assets/torontoCupcakeStyles/torontoCupcake-letterMark-white.png)
 
 The letter mark is simple yet elegant, utilizing the same serif font and some decorative flourishes connecting the 't' and 'c' for some added visual interest. Selective corners are rounded to appear a little more abstract and artistic to match their creative products.
 
@@ -28,24 +28,24 @@ The choice to make both logos lowercased was to follow the current design trend 
 
 ## Colour Palette
 
-We chose colours for this brand pulled directly from photos of pastries and cupcakes, later refined to a complimentary colour scheme of red and green. I made the decision to pull from a real life photo for an even deeper connection to the company's products.
+We chose colours for this brand pulled directly from photos of pastries and cupcakes, later refined to a complimentary colour scheme of pink and green. I made the decision to pull from a real life photo for an even deeper connection to the company's products.
 
 **Primary Colour**
-![primary colour](./assets/torontoCupcakeStyles/pink.png)
+![primary colour](assets/torontoCupcakeStyles/pink.png)
 
 This dusty pink combines both the playful nature of a bakery with a more corporate and professional tone.
 
 **Secondary Colour**
-![secondary colour](./assets/torontoCupcakeStyles/green.png)
+![secondary colour](assets/torontoCupcakeStyles/green.png)
 
 This deeper green colour serves to balance the brighter pink, its depth adds a little more maturity to the palette.
 
 **Background Colours**
-![beige colour](./assets/torontoCupcakeStyles/beige.png)
+![beige colour](assets/torontoCupcakeStyles/beige.png)
 
 This beige serves as a background colour, warming the composition and appearing more friendly and intentional as opposed to white.
 
-![brown colour](./assets/torontoCupcakeStyles/brown.png)
+![brown colour](assets/torontoCupcakeStyles/brown.png)
 
 This chocolatey brown is alternative background colour to help lighter coloured images stand out.
 
@@ -65,4 +65,4 @@ Inter is a very popular font known for it's readability and professionalism. The
 
 The next article will show off the final high fidelity product prototyped in Figma.
 
-[Next article](week7.md)
+[Next article - Hi-Fi Prototype](week7.md)
