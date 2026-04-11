@@ -2,13 +2,13 @@
 
 This article will detail our redesign of Toronto Cupcakes, including a style guide and design rationale.
 
-![toronto cupcake's new style guide](assets/torontoCupcakeStyles/styleguide.png)
+![toronto cupcake's new style guide](assets/img/torontoCupcake.png)
 
 ## Logo
 
 The wordmark for Toronto Cupcake takes inspiration from traditional French bakery styles.
 
-![wordmark](assets/torontoCupcakeStyles/wordmark.png)
+![wordmark](assets/img/wordmark.png)
 
 The bold serif font is strongly associated with trust, professionalism, and longstanding businesses, all features that Toronto Cupcake wants to promote to their corporate audience.
 
