@@ -42,4 +42,4 @@ Finally, this user flow demonstrated to us just how in depth the order page woul
 
 With these three user flows, we are now ready to begin sketching out some wireframes to represent them.
 
-[Next Article - Low-fi Wireframes](./week5-2.md)
+[Next Article - Low-fi Wireframes](week5-2/)
