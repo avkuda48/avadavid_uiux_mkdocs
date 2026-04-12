@@ -34,8 +34,8 @@ The current design is dated and does not reflect a gourmet bakery. It's pixelate
 
 ![toronto cupcake branding](assets/img/toronto_cupcake_logo.png)
 
-**Accessability**  
-This website does not adhere to accessability standards, especially contrast. It has poor hierarchy and typography which makes it hard for users to read and use.
+**accessibility**  
+This website does not adhere to accessibility standards, especially contrast. It has poor hierarchy and typography which makes it hard for users to read and use.
 
 ![toronto cupcake homepage](assets/img/toronto_cupcake_home.png)
 
